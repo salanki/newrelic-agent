@@ -1,5 +1,5 @@
 newrelic:
-  image: "tutum/newrelic-agent"
+  image: "salanki/newrelic-agent"
   restart: "on-failure"
   privileged: true
   volumes:
